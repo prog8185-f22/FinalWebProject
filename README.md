@@ -7,8 +7,7 @@
 ![architecture diagaram](https://user-images.githubusercontent.com/71631447/207440494-fb2ce5c2-8dfb-4551-a4b6-9aefc2518e19.png)
 
 An overview of all the requirements for the front-end:
-Visual Studio Code
-browser
+Visual Studio Code and browser
 
 An overview of all the requirements for the back-end:
 Firebase
