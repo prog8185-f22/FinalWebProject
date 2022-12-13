@@ -5,7 +5,7 @@ export const NotFound = () => {
     return (
         <div >
            <img src={logo} alt="logo" class="center"/>
-           <h1 class="center"><b>     Page Not Found</b></h1>
+           <h1 style = {{ textAlign: "center" }} class="center">Page Not Found</h1>
         </div>
     )
 }
