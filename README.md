@@ -19,3 +19,8 @@ Visual Studio Code and browser
 An overview of all the requirements for the back-end:
 Firebase
 
+technical challenges we encountered:
+network issue
+Data security
+OPEN SOURCE SOFTWARE
+
