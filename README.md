@@ -1,6 +1,13 @@
 
  schema/table design for the databases :
  ![database_diagarm](https://user-images.githubusercontent.com/71631447/207441051-4c5a17be-7eb9-4ba4-a3a2-2b0ef220d352.png)
+ 
+why we choose NoSQL for the aspect because Faster and Efficient Query Processing. SQL works with an efficient speed. No Need for Coding Skills. There is no need for large and complex code lines for data extraction. Portable. Standardised Language. Interactive Language. Multiple Data Views. Internet Usage.Large User Community.
+Handle large volumes of data at high speed with a scale-out architecture.
+Store unstructured, semi-structured, or structured data.
+Enable easy updates to schemas and fields.
+Be developer-friendly.
+Take full advantage of the cloud to deliver zero downtime.
 
  
  An architecture diagram of application:
